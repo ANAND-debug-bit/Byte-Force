@@ -1,6 +1,6 @@
-# Byte-Force
+# Career-Pilot
 
-Byte-Force is a TypeScript monorepo centered on CareerPilot, a desktop-first job discovery and verification platform for students and early-career professionals. The project combines a React frontend, an Express API, generated API clients, schema validation, and live external job intelligence powered by TinyFish.
+Byte Force is the team behind Career-Pilot, a TypeScript monorepo centered on a desktop-first job discovery and verification platform for students and early-career professionals. The project combines a React frontend, an Express API, generated API clients, schema validation, and live external job intelligence powered by TinyFish.
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white" alt="TypeScript 5.9" />
@@ -51,7 +51,7 @@ flowchart LR
 ## Project code structure
 
 ```text
-Byte-Force/
+Byte-Force/  # team workspace
 ├── artifacts/
 │   ├── api-server/
 │   │   ├── src/
@@ -229,4 +229,4 @@ The codebase emphasizes:
 
 ## Status
 
-The project is structured as a monorepo for a real-world hiring-assistant experience with a live data layer, generated contracts, and a polished UI. It is well-suited for continued expansion into richer analytics, saved account sync, job alerts, or deeper recruiter workflows.
+Career-Pilot is the product delivered by Byte Force. The project is structured as a monorepo for a real-world hiring-assistant experience with a live data layer, generated contracts, and a polished UI. It is well-suited for continued expansion into richer analytics, saved account sync, job alerts, or deeper recruiter workflows.
